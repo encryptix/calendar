@@ -36,4 +36,4 @@ class NumberHelpers:
 class GeneralHelpers:
     @staticmethod
     def createJSONEntry(name,value):
-        return "\""+str(name)+"\": \""+str*value)+"\""
+        return "\""+str(name)+"\": \""+str(value)+"\""
